@@ -1,0 +1,69 @@
+{
+  "links": [
+    {
+      "name": "atom/rss feed",
+      "link": "https://kitt/feed.xml"
+    }
+  ],
+  "badges": [
+    {
+      "badge": "kittblog.gif",
+      "title": "my site",
+      "alt": "kitt.blog",
+      "link": "https://kitt.blog"
+    },
+    {
+      "badge": "acab.gif",
+      "title": "fuck the cops",
+      "alt": "acab"
+    },
+    {
+      "badge": "3ds.gif",
+      "title": "3ds",
+      "alt": "3ds"
+    },
+    {
+      "badge": "wii_button.gif",
+      "title": "wii",
+      "alt": "wii"
+    },
+    {
+      "badge": "bi.png",
+      "alt": "bi"
+    },
+    {
+      "badge": "osaka.png",
+      "title": "osaka",
+      "alt": "osaka"
+    },
+    {
+      "badge": "rainbow.png",
+      "title": "rainbow",
+      "alt": "progress flag"
+    },
+    {
+      "badge": "transnow.gif",
+      "alt": "trans rights now"
+    },
+    {
+      "badge": "sonicteam.png",
+      "alt": "sonicteam"
+    },
+    {
+      "badge": "sl_20fps.gif",
+      "alt": "son loaf"
+    },
+    {
+      "badge": "brba.png",
+      "alt": "breaking bad"
+    },
+    {
+      "badge": "mikuchan.png",
+      "alt": "miku"
+    },
+    {
+      "badge": "twopaws.png",
+      "alt": "made with my own two paws"
+    }
+  ]
+}

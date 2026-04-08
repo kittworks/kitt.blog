@@ -1,0 +1,18 @@
+<footer>
+    <div>
+        {% for item in footer.links %}
+            <span><a href="{{ item.link }}" rel="me"  target="_blank">{{ item.name }}</a></span>
+            {% if not loop.last %}
+                <span>|</span>
+            {% endif %}
+        {% endfor %}
+    </div>
+    <div>
+
+    </div>
+    <div class="badges">
+        {% for item in footer.badges %}
+            {% if item.link %}<a href="{{ item.link }}" target="_blank">{% endif %}<img src="/badges/{{ item.badge }}" {% if item.onclick %}onclick="{{ item.onclick }}"{% endif %} alt="{{ item.alt }}" {% if item.title %}title="{{ item.title }}"{% endif %}>{% if item.link %}</a>{% endif %}
+        {% endfor %}
+    </div>
+</footer>
