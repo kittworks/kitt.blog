@@ -9,8 +9,6 @@ tags:
   - update
 layout: layouts/post.njk
 ---
-## Header
-kitt.blog is back
 
 i temporarily took down the site last month
 
