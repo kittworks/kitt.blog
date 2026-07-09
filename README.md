@@ -1,3 +1,1 @@
-# kitt blog is back...
-I USED MAIA CRIMEW'S WEBSITE AS THE BASE!!! THANMK U MAIA
-maia.crimew.gay
+personal project
